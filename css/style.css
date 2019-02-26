@@ -2,11 +2,7 @@
   SECTIONS
 ============================================================ */
 
-section.module h2 {
-  margin-bottom: 40px;
-  font-family: "Roboto Slab", serif;
-  font-size: 30px;
-}
+
 section.module p {
   margin-bottom: 40px;
   font-size: 16px;
