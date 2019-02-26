@@ -1,9 +1,7 @@
 /* ============================================================
   SECTIONS
 ============================================================ */
-section.module:last-child {
-  margin-bottom: 0;
-}
+
 section.module h2 {
   margin-bottom: 40px;
   font-family: "Roboto Slab", serif;
